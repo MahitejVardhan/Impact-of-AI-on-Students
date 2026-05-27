@@ -90,6 +90,10 @@ Correlation Analysis
 Group-wise Analysis
 Relationship Analysis
 Comparative Analysis
+
+<img width="2000" height="1100" alt="newplot (2)" src="https://github.com/user-attachments/assets/dbe537d8-068f-4d5f-aca8-051c058038c7" />
+
+
 4. Dashboard Development
 
 An interactive dashboard was developed using a storytelling approach:
