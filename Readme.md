@@ -183,13 +183,10 @@ Building predictive models for burnout risk
 Developing classification models
 Performing student segmentation through clustering
 Deploying the dashboard as an interactive web application
+
 Author
 
 Bantaram Mahitej Vardhan
 
-Interested in Data Analytics, Dashboard Development, and Data Storytelling.
-
-GitHub: Add your GitHub profile link
-LinkedIn: Add your LinkedIn profile link
 
 Feedback and suggestions are welcome.
